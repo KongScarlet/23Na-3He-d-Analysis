@@ -6,3 +6,5 @@ orig_spec_data.tar contains the original spectra from the experiment within deut
 processed_yield_and_misc.tar contains mostly peak characteristics extracted from the raw spectra, and other information that served as intermediate steps of the calculations. Those files were under my directory: /SpecData.
 
 FrescoInputData.tar and FrescoInputFiles.tar are as their names saying. FrescoInputFiles includes FRESCO setups and inputs of optical model potential parameters. FrescoInputData are the angular yields extracted from the experimental data that is ready to compare with FRESCO calculations.
+
+dircap.tar contains all the files needed for the direct capture calculations. Notebooks attached.
